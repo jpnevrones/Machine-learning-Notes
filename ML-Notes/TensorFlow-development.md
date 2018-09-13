@@ -16,4 +16,5 @@ anything which takes inoput data and computes an outcome based on some mathemati
 - `Session` is an object of TF responsible for running the operation on the graph and track satre of each node in the graph. For tranining we craete a session and call all train operation. ach time the training operation runs, we'll pass a new training data that will 
 be used for that training pass. And then we'll check the current accuracy by calling the loss function. While the training process 
 is running, we can watch the results graphically using a separate tool called `TensorBoard`. 
-- 
+- `TensorBoard` - web based app used for visually monitor the model in real time
+- Once the traning 
