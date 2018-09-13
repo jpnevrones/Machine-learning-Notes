@@ -9,7 +9,7 @@
 - Tensorflow is software framework for developipng machine elarning algorithm developed by google. TF has all the basic building block required 
 to build machine learning algorithm (simple to complex deep learning model). TF is not the only option avaliable, we have theanos, 
 keras(wrapper for tensorflow and theanos - good for prototyping), caffe, pythorch
-- Tensor - Basically are Multidimensional array 
+- `Tensor` - Basically are Multidimensional array 
 - At the core we TF enable us to define a mathematical operation as graph of smaller operation. Which ideally mean we can use tensorflow to design 
 anything which takes inoput data and computes an outcome based on some mathematical formula. Here we go machine is bunch of mathematical formulas.
 - TF core execution engine is written in C++, TF allow other languages like python to control the core execution written in C++
