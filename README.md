@@ -1,3 +1,3 @@
 # Machine-learning-Notes
 
-[Tensorflow based model development](/ML-Notes/TensorFlow-development.md)
+[Tensorflow based model development](/ML-Notes/TensorFlow-development)
